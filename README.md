@@ -4,7 +4,7 @@ Description
 Using the principles of Node js and OOP, this application was built as a way to allow  developers to create simple logos for their clients and projects so that they can forego paying a graphic designer. It utilizes inquirer to prompt the user within the command line for how they would like their logo to look (ie. what text they would like their logo to display (uas many characters in length), text color, logo shape (triangle, square, or circle) and shape color.) Once the user responds all prompts, then an SVG file is written using their selections to generate a logo.
 
 Live Screen Recording of Application Functionality
-https://youtu.be/EMex40HUYeI
+[https://youtu.be/EMex40HUYeI](https://youtu.be/573Ktpgp70k)
 
 
 
